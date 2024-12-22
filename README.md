@@ -48,8 +48,3 @@ This project provides an interactive Power BI dashboard that visualizes key sale
 
 ---
 
-## 🚀 **How to Run This Project**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/snsamia/SalesDataInsight_powerBi.git
